@@ -1,0 +1,39 @@
+Metadata-Version: 1.1
+Name: django-basic-crud
+Version: 0.1
+Summary: A simple Django app to basic CRUD.
+Home-page: https://www.example.com/
+Author: Ricardo Pizano
+Author-email: rikymon2@hotmail.com
+License: BSD License
+Description: =====
+        Basic CRUD
+        =====
+        
+        
+        Detailed documentation is in the "docs" directory.
+        
+        Quick start
+        -----------
+        
+        1. 
+        
+        2. 
+        
+        3. 
+        
+        4. 
+        
+        5. 
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: X.Y
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
