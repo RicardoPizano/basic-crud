@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
   name = 'basic-crud',
   packages = ['basic-crud'], # this must be the same as the name above
-  version = '0.1',
+  version = '0.2',
   description = 'A simple Django app to basic CRUD.',
   author = 'Ricardo Pizano',
   author_email = 'rikymon2@hotmail.com',
